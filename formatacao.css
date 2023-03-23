@@ -80,17 +80,23 @@
 }
 
 .subtitulo_destaque{
+    width: 1224px;
+    height: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #474747;
     text-align: center;
     margin-top: -10px;
+    align-items: center;
 }
 
 @media(max-width:1200px)
 {
     .subtitulo_destaque{
+        width: 980px;
+        height: 0px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-top: -80px;
+        text-align: center;
     }   
 }
 
