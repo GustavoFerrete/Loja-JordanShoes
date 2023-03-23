@@ -14,6 +14,10 @@ section{
     section{
         width: 414px;
         background-color: red;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-left:-9px;
+        height: 50px;
+        text-align: center;
     }
     
 }
