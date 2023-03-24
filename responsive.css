@@ -57,3 +57,30 @@
         border-style: none;        
     }   
 }
+
+@media(max-width:1200px)
+{
+    .boxs_tenis9{
+        display: inline-table;
+        background-color: #47474739;
+        margin-left: 330px;
+        margin-top: 30px;
+        width: 280px;
+        height: 220px;
+        border-radius: 3px;
+        border-style: none;        
+    }   
+}
+
+@media(max-width:1200px)
+{
+    footer{
+        width: 1000px;
+        height: 80px;
+        background-color: rgb(210, 210, 210);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 35px;
+        margin-left:-9px;
+        text-align: center;
+        line-height: 80px;
+}
